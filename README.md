@@ -1,2 +1,2 @@
 ## Quero te olhar nos olhos
-<img src="https://i.pinimg.com/originals/6f/ee/b9/6feeb9ac9d3f9e4c7ae77e2efc4a4824.gif" alt="GIF" width="100%"></img>
+<img src="https://i.pinimg.com/originals/78/56/0f/78560f1998097c570eafc8cf9e30f8a3.gif" alt="GIF" width="100%"></img>
