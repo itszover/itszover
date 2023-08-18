@@ -9,7 +9,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 <br>
-<h3 align=center>status</h3>
+<h3 align=center>stats</h3>
 <div>
  <a href="https://github.com/only-zover">
  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=only-zover&layout=compact&langs_count=7&theme=dracula"/>
