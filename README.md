@@ -8,12 +8,3 @@
 <h2 align=center>learning</h2>    
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-<br>
-<h3 align=center>stats</h3>
-<div>
- <a href="https://github.com/only-zover">
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=only-zover&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=only-zover&layout=compact&langs_count=8&theme=transparent"/>
-</div>          
-</div>     
