@@ -1,6 +1,3 @@
-![Skull Kid](skull_kid.gif)
-
-> "Whenever there is a meeting, a parting is sure to follow. However, that parting need not last forever... Whether a parting be forever or merely for a short time... That is up to you."
 
 <h1>techs and tools</h1>
 <div>
@@ -16,3 +13,7 @@
 <h3>contact</h3>
 
 <a href="mailto:martinho@alunos.utfpr.edu.br" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:jose.martinho@outlook.com.br">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a> <a href="https://www.linkedin.com/in/joseaugusto-gm/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+![Skull Kid](skull_kid.gif)
+
+> "Whenever there is a meeting, a parting is sure to follow. However, that parting need not last forever... Whether a parting be forever or merely for a short time... That is up to you."
