@@ -1,5 +1,3 @@
-## 📂 [portfolio](https://itszover.github.io/portfolio/) (wip)
-
 ## 🎿 techs and tools
 ![JavaScript](https://img.shields.io/badge/Javascript-black.svg?style=flat&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/Java-black.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white) ![PLSQL](https://img.shields.io/badge/PLSQL-black?style=flat&logo=oracle&logoColor=white) ![TypeScript](https://img.shields.io/badge/Typescript-black.svg?style=flat&logo=typescript&logoColor=white)<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-black.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-black.svg?style=flat&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-black?style=flat&logo=oracle&logoColor=white)<br>
